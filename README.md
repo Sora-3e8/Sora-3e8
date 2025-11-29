@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Sora, self taught programmer, science enthusiast.
+
+I originally started with physics and math as it allows us understand and utilize rules which drive our world to hopefully reach the most desirable outcome.
+Computers help us control devices with much more precision and timing, so here I am!
 
 <!--
 **Sora-3e8/Sora-3e8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
