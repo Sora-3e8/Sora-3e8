@@ -2,7 +2,8 @@
 ## I'm self taught programmer, physicist and science enthusiast.
 
 I've started with physics and math as it allows us understand and utilize rules which drive our world to hopefully reach the most desirable outcome.<br/>
-Computers help us control devices with much more precision and timing thus me getting into coding was inevitable, so here I am!
+Computers help us control devices with much more precision and timing thus me getting into coding was inevitable. 
+So here I am, world!
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
